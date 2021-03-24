@@ -14,4 +14,4 @@ Anyways
 9.After You Add The Txt File Go To Music And Add In Instrumental Files <br />
 10.After You Add Instrumental Files Go To Sounds And Add Voices Files <br />
 # Then You Should Be Done! Enjoy Your Fnf Mod Without Download!
-[![Haxelib Working](https://badgen.net/haxelib/d/flixel?color=blue)](https://lib.haxe.org/p/flixel)
+[![mods Working](https://badgen.net/haxelib/d/flixel?color=blue)](https://lib.haxe.org/p/flixel)
