@@ -22,5 +22,5 @@ Anyways
 <br />
 [![followers](https://badgen.net/badge/twitch%20followers/36?color=purple)](https://twitch.tv/cringygamernum1utube)
 [![follow goal](https://badgen.net/badge/twitch%20follower%20goal/50?color=purple)](https://twitch.tv/cringygamernum1utube)
-[![Size](https://img.shields.io/github/languages/code-size/Modd-io-Coderz/ModdioJSMusHev)](github.com)
+[![Size](https://img.shields.io/github/languages/code-size/modd-io-Coderz/ModdioJSMusHev)](github.com)
 # Do Not Download All If Size Becomes More Then 80
