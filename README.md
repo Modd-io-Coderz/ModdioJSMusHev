@@ -23,4 +23,4 @@ Anyways
 [![followers](https://badgen.net/badge/twitch%20followers/36?color=purple)](https://twitch.tv/cringygamernum1utube)
 [![follow goal](https://badgen.net/badge/twitch%20follower%20goal/50?color=purple)](https://twitch.tv/cringygamernum1utube)
 [![Size](https://img.shields.io/github/languages/code-size/Modd-io-Coderz/ModdioJSMusHev)](github.com)
-# if size reaches over 80 i advise not to download all and add to 1 game
+# Do Not Download All If Size Becomes More Then 80
