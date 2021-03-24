@@ -14,4 +14,13 @@ Anyways
 9.After You Add The Txt File Go To Music And Add In Instrumental Files <br />
 10.After You Add Instrumental Files Go To Sounds And Add Voices Files <br />
 # Then You Should Be Done! Enjoy Your Fnf Mod Without Download!
-[![mods Working](https://badgen.net/badge/txt%20downloads/1627?color=red)](https://beta.modd.io/mushev)
+[![mods Working](https://badgen.net/badge/txt%20downloads/1627?color=red)](https://beta.modd.io/mushevio) 
+[![mods used](https://badgen.net/badge/used%20percent/63%25?color=purple)](https://beta.modd.io/mushevio) 
+[![times played](https://badgen.net/badge/play%20count/2250?color=green)](https://beta.modd.io/mushevio)
+[![unique traphicing](https://badgen.net/badge/unique%20trafficing/180?color=blue)](https://beta.modd.io/mushevio)
+[![goal](https://badgen.net/badge/download%20goal/3000?color=green)](https://beta.modd.io/mushevio)
+<br />
+[![followers](https://badgen.net/badge/twitch%20followers/36?color=purple)](https://twitch.tv/cringygamernum1utube)
+[![follow goal](https://badgen.net/badge/twitch%20follower%20goal/50?color=purple)](https://twitch.tv/cringygamernum1utube)
+[![Size](https://img.shields.io/github/languages/code-size/Modd-io-Coderz/ModdioJSMusHev)](github.com)
+# if size reaches over 80 i advise not to download all and add to 1 game
