@@ -24,3 +24,11 @@ Anyways
 [![follow goal](https://badgen.net/badge/twitch%20follower%20goal/50?color=purple)](https://twitch.tv/cringygamernum1utube)
 [![Size](https://img.shields.io/github/languages/code-size/modd-io-Coderz/ModdioJSMusHev)](github.com)
 # Do Not Download All If Size Becomes More Then 80
+# New Way To Make A Mod For MusHev :)
+1. Go To A Copy Or Main Game
+2. Press 7
+3. Click The Arrows,Start Or Waiting U Want
+4. Click Close
+5. Press b
+6. Copy The Numbers On The Modal
+7. Go To Your Copy Of The Game And Switch Out The Song,Js With The Numbers And Character Listed In The Modal And Your All Set
