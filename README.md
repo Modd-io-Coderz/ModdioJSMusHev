@@ -26,7 +26,7 @@ Anyways
 # Do Not Download All If Size Becomes More Then 80
 # New Way To Make A Mod For MusHev :)
 1. Go To A Copy Or Main Game
-2. Press 7
+2. Press esc
 3. Click The Arrows,Start Or Waiting U Want
 4. Click Close
 5. Press b
