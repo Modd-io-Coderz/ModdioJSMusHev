@@ -32,3 +32,4 @@ Anyways
 5. Press b
 6. Copy The Numbers On The Modal
 7. Go To Your Copy Of The Game And Switch Out The Song,Js With The Numbers And Character Listed In The Modal And Your All Set
+(If You Decide To Add To This Respository Then Every 6 Characters Press Enter So I Can Approve It If It Doesnt Have That Then Imma Have To Decline It(delete))
